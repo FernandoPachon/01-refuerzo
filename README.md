@@ -16,5 +16,8 @@ Usando `yarn` en la consola puedes realizar las instalaciones de los directorios
 
 Utilizando el comando `npm start` o `yarn  start` podras lanzar el proyecto.
 
+
+### Tenga en cuenta que para la reenderización de cualquier proyecto de react native, se tiene que tener instalado `node js` y `android studio`
+
 # Contribuido por
 *Fernando Pachon*
